@@ -1,0 +1,13 @@
+$white: #fff;
+$black: #000;
+$blacG: #242121;
+$accent: #00B2A0;
+$darkBlue: #0D302C;
+
+$transition: .2s all ease-in;
+
+@mixin container {
+    max-width: 1230px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
