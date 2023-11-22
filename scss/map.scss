@@ -1,0 +1,10 @@
+.map {
+    padding: 0 0 200px 0;
+    margin-top: 200px;
+    &__container {
+        @include container;
+    }
+    &-img {
+        max-width: 100%;
+    }
+}

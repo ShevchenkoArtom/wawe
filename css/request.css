@@ -1,0 +1,5 @@
+.request__content {
+  display: -ms-grid;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(559px, 1fr));
+}
